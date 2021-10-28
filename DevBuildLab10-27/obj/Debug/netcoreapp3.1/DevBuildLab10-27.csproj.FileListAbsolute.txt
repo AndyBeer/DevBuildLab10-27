@@ -1,0 +1,14 @@
+C:\Users\abeer\source\repos\Labs\Lab10.27\DevBuildLab10-27\DevBuildLab10-27\bin\Debug\netcoreapp3.1\DevBuildLab10-27.exe
+C:\Users\abeer\source\repos\Labs\Lab10.27\DevBuildLab10-27\DevBuildLab10-27\bin\Debug\netcoreapp3.1\DevBuildLab10-27.deps.json
+C:\Users\abeer\source\repos\Labs\Lab10.27\DevBuildLab10-27\DevBuildLab10-27\bin\Debug\netcoreapp3.1\DevBuildLab10-27.runtimeconfig.json
+C:\Users\abeer\source\repos\Labs\Lab10.27\DevBuildLab10-27\DevBuildLab10-27\bin\Debug\netcoreapp3.1\DevBuildLab10-27.runtimeconfig.dev.json
+C:\Users\abeer\source\repos\Labs\Lab10.27\DevBuildLab10-27\DevBuildLab10-27\bin\Debug\netcoreapp3.1\DevBuildLab10-27.dll
+C:\Users\abeer\source\repos\Labs\Lab10.27\DevBuildLab10-27\DevBuildLab10-27\bin\Debug\netcoreapp3.1\DevBuildLab10-27.pdb
+C:\Users\abeer\source\repos\Labs\Lab10.27\DevBuildLab10-27\DevBuildLab10-27\obj\Debug\netcoreapp3.1\DevBuildLab10-27.csproj.AssemblyReference.cache
+C:\Users\abeer\source\repos\Labs\Lab10.27\DevBuildLab10-27\DevBuildLab10-27\obj\Debug\netcoreapp3.1\DevBuildLab10-27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abeer\source\repos\Labs\Lab10.27\DevBuildLab10-27\DevBuildLab10-27\obj\Debug\netcoreapp3.1\DevBuildLab10-27.AssemblyInfoInputs.cache
+C:\Users\abeer\source\repos\Labs\Lab10.27\DevBuildLab10-27\DevBuildLab10-27\obj\Debug\netcoreapp3.1\DevBuildLab10-27.AssemblyInfo.cs
+C:\Users\abeer\source\repos\Labs\Lab10.27\DevBuildLab10-27\DevBuildLab10-27\obj\Debug\netcoreapp3.1\DevBuildLab10-27.csproj.CoreCompileInputs.cache
+C:\Users\abeer\source\repos\Labs\Lab10.27\DevBuildLab10-27\DevBuildLab10-27\obj\Debug\netcoreapp3.1\DevBuildLab10-27.dll
+C:\Users\abeer\source\repos\Labs\Lab10.27\DevBuildLab10-27\DevBuildLab10-27\obj\Debug\netcoreapp3.1\DevBuildLab10-27.pdb
+C:\Users\abeer\source\repos\Labs\Lab10.27\DevBuildLab10-27\DevBuildLab10-27\obj\Debug\netcoreapp3.1\DevBuildLab10-27.genruntimeconfig.cache
